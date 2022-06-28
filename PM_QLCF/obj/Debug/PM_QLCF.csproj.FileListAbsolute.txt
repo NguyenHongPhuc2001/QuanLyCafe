@@ -1,0 +1,134 @@
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.exe.config
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.exe
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.pdb
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.AssemblyReference.cache
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.Properties.Resources.resources
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.GenerateResource.cache
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.CoreCompileInputs.cache
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.exe
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.pdb
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fLogin.resources
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fGiaoDienChinh.resources
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.dll
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.SqlServer.dll
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.xml
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.SqlServer.xml
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.CopyComplete
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fBanHang.resources
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fLichSuBanHang.resources
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLyNCC.resources
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLySanPham.resources
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fThongKe.resources
+E:\Self-Study\2022\C# - .NET Framework\PM_QuanLyCafe\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLyBan.resources
+E:\Code\CS\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.exe.config
+E:\Code\CS\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.exe
+E:\Code\CS\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.pdb
+E:\Code\CS\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.dll
+E:\Code\CS\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.SqlServer.dll
+E:\Code\CS\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.xml
+E:\Code\CS\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.SqlServer.xml
+E:\Code\CS\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.AssemblyReference.cache
+E:\Code\CS\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.SuggestedBindingRedirects.cache
+E:\Code\CS\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fBanHang.resources
+E:\Code\CS\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fGiaoDienChinh.resources
+E:\Code\CS\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fLichSuBanHang.resources
+E:\Code\CS\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fLogin.resources
+E:\Code\CS\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLyBan.resources
+E:\Code\CS\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLyNCC.resources
+E:\Code\CS\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLySanPham.resources
+E:\Code\CS\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fThongKe.resources
+E:\Code\CS\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.Properties.Resources.resources
+E:\Code\CS\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.GenerateResource.cache
+E:\Code\CS\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.CoreCompileInputs.cache
+E:\Code\CS\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.CopyComplete
+E:\Code\CS\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.exe
+E:\Code\CS\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.pdb
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.exe.config
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.exe
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.pdb
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.dll
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.xml
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.AssemblyReference.cache
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fBanHang.resources
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fGiaoDienChinh.resources
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fLichSuBanHang.resources
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fLogin.resources
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLyBan.resources
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLyNCC.resources
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLySanPham.resources
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fThongKe.resources
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.Properties.Resources.resources
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.GenerateResource.cache
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.CoreCompileInputs.cache
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.CopyComplete
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.exe
+C:\Users\PhucNguyen\Desktop\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.pdb
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.exe.config
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.exe
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.pdb
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.dll
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.SqlServer.dll
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.xml
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.SqlServer.xml
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.AssemblyReference.cache
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.SuggestedBindingRedirects.cache
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fBanHang.resources
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fGiaoDienChinh.resources
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fLichSuBanHang.resources
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fLogin.resources
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLyBan.resources
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLyNCC.resources
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLySanPham.resources
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fThongKe.resources
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.Properties.Resources.resources
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.GenerateResource.cache
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.CoreCompileInputs.cache
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.CopyComplete
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.exe
+E:\Code\CS\TheLast\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.pdb
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.exe.config
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.exe
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.pdb
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.dll
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.SqlServer.dll
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.xml
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.SqlServer.xml
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.AssemblyReference.cache
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fBanHang.resources
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fGiaoDienChinh.resources
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fLichSuBanHang.resources
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fLogin.resources
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLyBan.resources
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLyNCC.resources
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLySanPham.resources
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fThongKe.resources
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.Properties.Resources.resources
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.GenerateResource.cache
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.CoreCompileInputs.cache
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.CopyComplete
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.exe
+E:\HK II 2021-2022\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.pdb
+E:\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.exe.config
+E:\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.exe
+E:\PM_QLCF\PM_QLCF\bin\Debug\PM_QLCF.pdb
+E:\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.dll
+E:\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.SqlServer.dll
+E:\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.xml
+E:\PM_QLCF\PM_QLCF\bin\Debug\EntityFramework.SqlServer.xml
+E:\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.AssemblyReference.cache
+E:\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fBanHang.resources
+E:\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fGiaoDienChinh.resources
+E:\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fLichSuBanHang.resources
+E:\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fLogin.resources
+E:\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLyBan.resources
+E:\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLyNCC.resources
+E:\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fQuanLySanPham.resources
+E:\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.fThongKe.resources
+E:\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.Properties.Resources.resources
+E:\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.GenerateResource.cache
+E:\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.CoreCompileInputs.cache
+E:\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.csproj.CopyComplete
+E:\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.exe
+E:\PM_QLCF\PM_QLCF\obj\Debug\PM_QLCF.pdb
